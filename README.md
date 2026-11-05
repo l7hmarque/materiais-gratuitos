@@ -16,7 +16,7 @@ Você vai aprender:
 - Como reduzir a exposição de dados sensíveis.
 - Cuidados importantes ao utilizar IA em ambientes profissionais.
 
-📄 📄 [Acessar o guia gratuito (PDF)](https://l7hmarque.github.io/materiais-prismatech/guia-privacidade-ia.pdf)
+📄 📄 **[Acessar o guia gratuito (PDF)](guia_privacidade_ia.pdf)**
 
 ## 🌐 Acesse os materiais
 
